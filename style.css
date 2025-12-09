@@ -1,0 +1,19 @@
+.box {
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    background-color: lightblue;
+    text-align: center;
+    line-height: 100px;
+}
+
+/* ==== CODE ALONG ==== */
+
+
+
+/* ==== CODE SOLO ==== */
+
+/* Apply FOUR CSS transforms in total to make the boxes visually distinct and interesting. You can use scale, translate, rotate, and skew or even combine them. */
+
+
+/* BONUS: Try combining the :hover selector with the transform property. Try to make the boxes spin when you hover over them. Use the transition: 0.3s ease; property and value to make it smoother. */
